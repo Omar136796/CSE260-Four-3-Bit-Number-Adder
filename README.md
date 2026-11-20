@@ -11,7 +11,7 @@ CSE260 (Digital Logic Design) at BRAC University, Spring 2025.
 ## Problem
 
 Build a circuit that adds four individual 3-bit numbers and displays the final
-output, using only AND, OR, NOT, NAND, NOR, XOR, and XNOR gates.
+output, using only AND, OR, NOT, NAND, NOR, XOR and XNOR gates.
 
 | Sample input | Expected output |
 |--------------|-----------------|
